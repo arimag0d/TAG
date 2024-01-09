@@ -1,0 +1,30 @@
+body {
+    margin-top: 4%;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1000px;
+}
+
+li {
+    white-space: pre-line;
+    margin-left: 4%;
+}
+
+.part-of-speech {
+    font-style: italic;
+    font-size: small;
+    margin-top: 2%;
+}
+
+.example {
+    color: darkgrey;
+}
+
+.example > span {
+    color: grey;
+    font-weight: bold;
+}
+
+.synonyms {
+    color: slateblue;
+}
